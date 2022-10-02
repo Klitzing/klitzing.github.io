@@ -1,3 +1,4 @@
+<!---
 ---
 layout: post
 title:  "Welcome to Jekyll!"
@@ -11,6 +12,21 @@ header:
   actions:
     - label: "Download"
       url: /year-archive/
+---
+-->
+---
+title: "Layout: Header Image (Horizontal)"
+header:
+  image: /assets/images/unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+categories:
+  - Layout
+  - Uncategorized
+tags:
+  - edge case
+  - featured image
+  - image
+  - layout
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
