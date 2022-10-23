@@ -12,13 +12,13 @@ header:
       url: /year-archive/
   
 excerpt: "种一棵树最好的时间是十年前，其次是现在"
-#intro: 
-#  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-#feature_row:
-#  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#    alt: "placeholder image 1"
-#    title: "Placeholder 1"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_row:
+  - image_path: assets/images/15445pro0.jpg
+    alt: "placeholder image 1"
+    title: "CMU 15-445 Project0 总结"
+    url: "/_site/collection_2/2_CMU-15445-project1/index.html"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     
 #    alt: "placeholder image 2"
