@@ -320,3 +320,19 @@ defaults:
       layout: single
       author_profile: false
       share: false
+  
+  - scope:
+      path: ""
+      type: collection_2
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
+  - scope:
+      path: ""
+      type: collection_3
+    values:
+      layout: single
+      author_profile: false
+      share: false
