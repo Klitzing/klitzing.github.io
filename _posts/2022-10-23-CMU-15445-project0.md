@@ -4,7 +4,7 @@ excerpt: "一些C++基本功"
 classes: wide
 header:
   image: /assets/images/15445pro0.jpg
-
+share: false
 ---
 
 **[CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)**是CMU关于数据库设计和实现的一门基础课程，对全校的本科生和研究生开放。2022年这门课由数据库领域的大牛 **[Andy Pavlo](http://www.cs.cmu.edu/~pavlo/)**讲授，课程内容涵盖存储引擎，索引模型，查询优化和并发运算等多方面知识，非常适合数据库初学者将其作为数据库的第一门课程学习。
