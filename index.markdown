@@ -17,7 +17,7 @@ feature_row:
   - image_path: assets/images/15445pro0.jpg
     alt: "placeholder image 1"
     title: "CMU 15-445 Project0 总结"
-    url: "/collection_2/2_CMU-15445-project0/"
+    url: "https://sonicnapalm.xyz/CMU-15445-project0/"
     btn_label: "阅读"
     btn_class: "btn--primary"
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
