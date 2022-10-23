@@ -17,8 +17,9 @@ feature_row:
   - image_path: assets/images/15445pro0.jpg
     alt: "placeholder image 1"
     title: "CMU 15-445 Project0 总结"
-    url: "/_site/collection_2/2_CMU-15445-project1/index.html"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "/_site/CMU-15445-project1/index.html"
+    btn_label: "阅读"
+    btn_class: "btn--primary"
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     
 #    alt: "placeholder image 2"
