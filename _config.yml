@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SonicNapalm"
+  name             : #"SonicNapalm"
   avatar           : /assets/images/butters.jpg
   bio              : "人生的意义在于去码头整点薯条"
   location         : "火星"
