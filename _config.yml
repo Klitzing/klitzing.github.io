@@ -298,7 +298,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -318,7 +318,7 @@ defaults:
       type: collection_1
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: true
       share: false
   
@@ -327,7 +327,7 @@ defaults:
       type: collection_2
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: true
       share: false
 
@@ -336,6 +336,6 @@ defaults:
       type: collection_3
     values:
       layout: single
-      read_time: true
+      read_time: false
       author_profile: true
       share: false

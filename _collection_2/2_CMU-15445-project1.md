@@ -28,4 +28,29 @@ header:
   * 右值应用可以指向右值，不能指向左值
   * std::move()函数可将左值转换为右值
 
-右值引用的好处是对于函数传参，以右值引用为参数可以避免深拷贝，提高效率（在本project中InsertChildNode函数采用右值引用将std::unique_ptr<TrieNode>作为形参）。
+右值引用的好处是对于函数传参，以右值引用为参数可以避免深拷贝，提高效率（在本project中InsertChildNode函数采用右值引用将std::unique_ptr作为形参）。
+
+### 移动语义
+参考资料：**[C++11朝码夕解: move和forward](https://zhuanlan.zhihu.com/p/55856487)**, **[Usage of std::forward vs std::move](https://stackoverflow.com/questions/28828159/usage-of-stdforward-vs-stdmove)**。
+
+中心点：
+
+  * std::move()可将左值转换为右值
+  * std::forward()对左值和右值同样适用，范围更广
+
+### 智能指针
+参考资料：**[What is a smart pointer and when should I use one?](https://stackoverflow.com/questions/106508/what-is-a-smart-pointer-and-when-should-i-use-one)**, **C++ primer**12.1.4节。
+
+中心点：
+
+  * 智能指针是包装原始C++指针的类，用于管理所指向对象的生命周期
+  * std::unique_ptr无法被复制，不过其引用可以传递给其他参数
+  * std::shared_ptr可以被复制，当指向同一对象的所有指针生命期均结束后，对象被删除
+  * std::weak_ptr指向std::shared_ptr，其本身不计入引用数，当所有shared_ptr生命期结束后，weak_ptr指向对象自动消失
+
+### 类型转换
+参考资料：**[dynamic_cast and static_cast in C++](https://stackoverflow.com/questions/2253168/dynamic-cast-and-static-cast-in-c)**
+
+中心点：
+
+  * static_cast可以由基类转换到派生类，或由派生类转换到基类，如果转换不合法，将得到nullptr
