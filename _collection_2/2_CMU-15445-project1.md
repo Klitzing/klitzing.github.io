@@ -28,7 +28,7 @@ header:
   * 右值应用可以指向右值，不能指向左值
   * std::move()函数可将左值转换为右值
 
-右值引用的好处是对于函数传参，以右值引用为参数可以避免深拷贝，提高效率（在本project中InsertChildNode函数采用右值引用将std::unique_ptr作为形参）。
+右值引用的好处是对于函数传参，以右值引用为参数可以避免深拷贝，提高效率(在本project中InsertChildNode函数采用右值引用将std::unique_ptr作为形参)。
 
 ### 移动语义
 参考资料：**[C++11朝码夕解: move和forward](https://zhuanlan.zhihu.com/p/55856487)**, **[Usage of std::forward vs std::move](https://stackoverflow.com/questions/28828159/usage-of-stdforward-vs-stdmove)**。
@@ -54,3 +54,46 @@ header:
 中心点：
 
   * static_cast可以由基类转换到派生类，或由派生类转换到基类，如果转换不合法，将得到nullptr
+
+## Project实现
+
+本实验要求实现一个**[字典树结构](https://en.wikipedia.org/wiki/Trie)**，包括基本的数据结构实现和并发控制。
+对于字典树，参考**[leetcode 208](https://leetcode.com/problems/implement-trie-prefix-tree/)**的实现方法。
+
+本实验提供了三个类：TrieNode Class，TrieNodeWithValue Class，Trie Class
+
+  * TrieNode Class代表单个非叶节点
+  * TrieNodeWithValue Class代表叶节点
+  * Trie Class代表字典树总体，其中根节点是以'\0'为值的TrieNode
+
+由于课程要求，具体的实现代码不能公开，因此在这篇文章中仅介绍思路。
+
+对于TrieNode Class，实现上没有难点，按照注释去做就行。需要注意的点：
+
+1. 遇到右值引用需要调用move函数
+```c++
+{
+  children_ = std::move(other_trie_node.children_);
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
