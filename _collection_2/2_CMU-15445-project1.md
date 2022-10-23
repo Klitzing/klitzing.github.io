@@ -72,9 +72,7 @@ header:
 
 1. 遇到右值引用需要调用move函数
 ```c++
-{
-  children_ = std::move(other_trie_node.children_);
-}
+children_ = std::move(other_trie_node.children_);
 ```
 
 
