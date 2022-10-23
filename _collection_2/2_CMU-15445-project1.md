@@ -1,6 +1,7 @@
 ---
 title: "CMU 15-445 Project0 总结"  
 excerpt: "一些C++基本功"
+classes: wide
 header:
   image: /assets/images/15445pro0.jpg
 
