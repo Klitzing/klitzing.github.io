@@ -318,7 +318,8 @@ defaults:
       type: collection_1
     values:
       layout: single
-      author_profile: false
+      read_time: true
+      author_profile: true
       share: false
   
   - scope:
@@ -326,7 +327,8 @@ defaults:
       type: collection_2
     values:
       layout: single
-      author_profile: false
+      read_time: true
+      author_profile: true
       share: false
 
   - scope:
@@ -334,5 +336,6 @@ defaults:
       type: collection_3
     values:
       layout: single
-      author_profile: false
+      read_time: true
+      author_profile: true
       share: false
