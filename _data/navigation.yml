@@ -2,7 +2,7 @@
 main:
   - title: "汇总"
     url: /year-archive/
-  - title: "Sample Collections"
-    url: /portfolio/
+  - title: "杂谈"
+    url: /collection_1/
   - title: "Sitemap"
     url: /sitemap/
