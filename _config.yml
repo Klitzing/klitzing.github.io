@@ -279,7 +279,7 @@ compress_html:
 
 
 collections:
-  portfolio:
+  collection_1:
     output: true
     permalink: /:collection/:path/
 
