@@ -4,5 +4,7 @@ main:
     url: /year-archive/
   - title: "杂谈"
     url: /collection_1/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "读书"
+    url: /collection_2/
+  - title: "音乐"
+  url: /collection_3/

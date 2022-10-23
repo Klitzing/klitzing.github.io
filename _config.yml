@@ -282,6 +282,12 @@ collections:
   collection_1:
     output: true
     permalink: /:collection/:path/
+  collection_2:
+    output: true
+    permalink: /:collection/:path/
+  collection_3:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -309,7 +315,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: collection_1
     values:
       layout: single
       author_profile: false
