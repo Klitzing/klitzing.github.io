@@ -75,6 +75,78 @@ header:
 children_ = std::move(other_trie_node.children_);
 ```
 
+对于TrieNodeWithValue：
+
+2. 创建构造函数时，利用基类的构造函数(注意TrieNode类构造函数的参数为右值引用，需要利用move或forward函数)
+```c++
+TrieNodeWithValue(TrieNode &&trieNode, T value) : TrieNode(std::move(trieNode)) {
+  this->value_ = value;
+  this->is_end_ = true;
+}
+```
+
+对于Trie：
+
+3. 完成Insert函数时，伪代码如下：
+```c++
+size_t i = 0;
+while (i < key.size() - 1) {
+  若有key[i]，跳过；
+  若无，植入key[i]为值的TrieNode
+}
+// 最后一个字母
+if (!(*ptr)->HasChild(key[i])) {// 1. 含有此字母的节点不存在
+  ......
+} else if ((*((*ptr)->GetChildNode(key[i])))->IsEndNode() == false) {//2. 含有此字母的节点不存在为TrieNode
+  ......
+} else {//3. 含有此字母的节点为TrieNodeWithValue,
+  ......
+}
+```
+
+4. 对于Remove
+```c++
+//创建stack,记录找到对应节点的路径
+std::stack<std::unique_ptr<TrieNode>*> mystack;
+mystack.push(ptr);
+while (i < key.size()) {
+  找到尾节点
+}
+std::unique_ptr<TrieNode>* last, *last_2;
+last = mystack.top();
+mystack.pop();
+while (mystack.size() != 0) {
+  若无子节点，删除之，继续向上删除
+}
+```
+
+5. 对于GetValue
+```c++
+if (key.size() == 0) {
+  *success = false;
+  return T();      
+}
+auto ptr = &root_;
+size_t i = 0;
+while (i < key.size()) {
+  找到以key为字符串的节点链
+}
+//类型转换，需要注意的是：(*ptr)为unique_ptr,(*(*ptr))为TrieNodeWithValue对象，(&(*(*ptr)))为指向TrieNodeWithValue对象的普通指针
+if (dynamic_cast<TrieNodeWithValue<T>*>(&(*(*ptr))) == nullptr) {
+  *success = false;
+  return T();   
+} else {
+  *success = true;
+  return dynamic_cast<TrieNodeWithValue<T> *>(&(*(*ptr)))->GetValue();
+}
+```
+
+对于并发控制：
+
+在Insert，Remove，GetValue的开头加锁，return之前解锁即可
+
+
+
 
 
 
