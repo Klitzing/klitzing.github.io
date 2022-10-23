@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "SonicNapalm"
+  avatar           : /assets/images/best-butters-stotch-quotes-south-park.jpg
+  bio              : "人生的意义在于去码头整点薯条"
+  location         : "火星"
   email            :
   links:
     - label: "Email"
