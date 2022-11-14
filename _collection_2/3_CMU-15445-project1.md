@@ -21,7 +21,6 @@ share: false
 链表法或再哈希法，可扩展哈希表的特点是哈希索引(Directories)直接对应哈希桶(Buckets)，而所有的数据都直接存储于哈希桶内，无需多余的查询步骤。
 相应的，可扩展哈希表实现方法相对复杂，其插入和删除较有难度。$f(x)=\frac{P(x)}{Q(x)}$
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
