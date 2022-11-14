@@ -19,7 +19,7 @@ share: false
 
 参考**[维基百科](https://en.wikipedia.org/wiki/Extendible_hashing)**，Extendible Hash Table的优点在于查询效率高，相对于普通哈希表的
 链表法或再哈希法，可扩展哈希表的特点是哈希索引(Directories)直接对应哈希桶(Buckets)，而所有的数据都直接存储于哈希桶内，无需多余的查询步骤。
-相应的，可扩展哈希表实现方法相对复杂，其插入和删除较有难度。$f(x)=\frac{P(x)}{Q(x)}$
+相应的，可扩展哈希表实现方法相对复杂，其插入和删除较有难度。
 
 <html>
 <head>
