@@ -21,6 +21,23 @@ share: false
 链表法或再哈希法，可扩展哈希表的特点是哈希索引(Directories)直接对应哈希桶(Buckets)，而所有的数据都直接存储于哈希桶内，无需多余的查询步骤。
 相应的，可扩展哈希表实现方法相对复杂，其插入和删除较有难度。$f(x)=\frac{P(x)}{Q(x)}$
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" async>
+</script>
+</head>
+<body>
+<p>
+  当 \(a \ne 0\)时,  \(ax^2 + bx + c = 0\) 会有两个解，它们是：
+  $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
+</body>
+</html>
+
 所幸project1中的可扩展哈希表并不需要实现哈希索引的缩减，降低了难度，因此本实验的难点在于插入步骤。关于可扩展哈希表的原理，可以看
 **[资料](https://www.geeksforgeeks.org/extendible-hashing-dynamic-approach-to-dbms/)**。相对于普通的哈希表，需要关注的变量有Global Depth(决定索引数字的长度，同时决定索引数组的大小)，Local Depth(决定指向哈希桶指针的数量，若与Global Depth相等，则数量为一，否则为2 ^ (Global Depth - Local Depth))。
 
