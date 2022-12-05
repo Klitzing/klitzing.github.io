@@ -51,6 +51,23 @@ $h-size-4: 1.0625em !default; // ~17px
 $h-size-5: 1.03125em !default; // ~16.5px
 $h-size-6: 1em !default; // ~16px
 
+@import "minimal-mistakes";
+
+html {
+    font-size: 14px; // change to whatever
+  
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 20px; // change to whatever
+    }
+  }
 /*
    Colors
    ========================================================================== */
