@@ -1,7 +1,4 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
-search: false
----
+
 
 @charset "utf-8";
 
@@ -52,7 +49,7 @@ $h-size-4: 1.0625em !default;
 $h-size-5: 1.03125em !default;
 $h-size-6: 1em !default;
 
-@import "minimal-mistakes";
+
 
 html {
     font-size: 14px; // change to whatever
