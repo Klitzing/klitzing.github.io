@@ -51,18 +51,3 @@ $h-size-6: 1em !default;
 
 
 
-html {
-    font-size: 2px; // change to whatever
-  
-    @include breakpoint($medium) {
-      font-size: 2px; // change to whatever
-    }
-  
-    @include breakpoint($large) {
-      font-size: 2px; // change to whatever
-    }
-  
-    @include breakpoint($x-large) {
-      font-size: 2px; // change to whatever
-    }
-  }
