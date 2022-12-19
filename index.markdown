@@ -14,21 +14,21 @@ header:
 excerpt: "种一棵树最好的时间是十年前，其次是现在"
 
 feature_row:
-  - image_path: assets/images/15445pro0.jpg
+  - image_path: assets/images/15445pro0lowcp.jpg
     alt: "placeholder image 1"
     title: "CMU 15-445 Project0 总结"
     url: "https://sonicnapalm.xyz/CMU-15445-project0/"
     btn_label: "阅读"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/15445pro11.jpg
+  - image_path: assets/images/15445pro1lowcp.jpg
     alt: "placeholder image 1"
     title: "CMU 15-445 Project1 总结"
     url: "https://sonicnapalm.xyz/CMU-15445-project1/"
     btn_label: "阅读"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/project2/1.jpg  
+  - image_path: assets/images/project2/1lowcp.jpg  
     alt: "placeholder image 1"
     title: "CMU 15-445 Project2 总结"
     url: "https://sonicnapalm.xyz/CMU-15445-project2/"
