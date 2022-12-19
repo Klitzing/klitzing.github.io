@@ -27,6 +27,13 @@ feature_row:
     url: "https://sonicnapalm.xyz/CMU-15445-project1/"
     btn_label: "阅读"
     btn_class: "btn--primary"
+
+  - image_path: assets/images/project2/1.jpg  
+    alt: "placeholder image 1"
+    title: "CMU 15-445 Project2 总结"
+    url: "https://sonicnapalm.xyz/CMU-15445-project2/"
+    btn_label: "阅读"
+    btn_class: "btn--primary"
 #  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     
 #    alt: "placeholder image 2"
