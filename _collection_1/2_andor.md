@@ -17,7 +17,7 @@ toc_label: "目录"
     <figcaption>帝安局做题家本家</figcaption>
 </figure>
 
-帝安局做题家觉得两位员工的死因理应查个水落石出，结果在上司哪里碰了钉子：
+帝安局做题家觉得两位员工的死因理应查个水落石出，结果在上司那里碰了钉子：
 
 <figure>
     <a href="/assets/images/andor/1/Screenshot 2022-12-29 191824.jpg"><img src="/assets/images/andor/1/Screenshot 2022-12-29 191824.jpg"></a>
