@@ -4,92 +4,21 @@ excerpt: "什么叫最好的星战衍生剧啊（战术后仰"
 classes: wide
 share: false
 toc: true
+toc_sticky: true
 toc_label: "目录"
 ---
 
-Enable table of contents on post or page by adding `toc: true` to its YAML Front Matter. The title and icon can also be changed with:
+## 第一集
 
-```yaml
----
-toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
----
-```
+《安多》前三集以铺垫为主，节奏偏慢，能讲的不太多。以第一集为例，主干情节就是：安多找妹妹，安多杀了人，安多准备润了。这时的安多和抵抗组织还没有任何纠葛，不过他已经被晶哥盯上了，这位骨骼精奇的晶哥叫希里尔·卡恩(Syril Karn)，暂且叫他帝安局做题家好了(他后来跑去了帝安局做事)。
 
-## HTML Elements
+<figure>
+    <a href="/assets/images/andor/1/Screenshot 2022-12-29 192223.jpg"><img src="/assets/images/andor/1/Screenshot 2022-12-29 192223.jpg"></a>
+    <figcaption>Photo from Unsplash.</figcaption>
+</figure>
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
-## Body text
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
 
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-```html
-<a href="#" class="btn btn--success">Success Button</a>
-```
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn--info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
