@@ -1,7 +1,7 @@
 ---
 title: "统计学习课程汇报"  
 excerpt: "简单水一篇课程汇报"
-classes: wide
+#classes: wide
 header:
   image: /assets/images/mimic.jpg
 share: false
