@@ -68,11 +68,56 @@ toc_label: "目录"
     <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a><figcaption>基层治理就是要刀子见血！</figcaption>
 </figure>
 
+## 第三集
 
+从这集开始，本剧义军的核心人物：卢森，终于有了一展拳脚的舞台。作为这部剧给我印象最深的配角，可以说卢森以一人之力拔高了整部剧的高度，通过他张弛有度的演技和掷地有声的台词，《安多》从一众星战衍生剧中脱颖而出，衬托得其他衍生剧如同儿戏。
 
+首先看安多和卢森在废弃工厂的对峙，一般来说，文戏是最能塑造角色形象的，但也很考验编剧功底。这里的背景是卢森对安多有戒心，站在他的角度，安多就是个拈花惹草，惹是生非的小混混，通过来路不明的渠道拿到了昂贵的星路组，自然成为了可疑对象。
 
+<figure>
+    <a href="/assets/images/andor/3/1.jpg"><img src="/assets/images/andor/3/1.jpg"></a>
+    <a href="/assets/images/andor/3/2.jpg"><img src="/assets/images/andor/3/2.jpg"></a>
+    <a href="/assets/images/andor/3/3.jpg"><img src="/assets/images/andor/3/3.jpg"></a>
+    <a href="/assets/images/andor/3/4.jpg"><img src="/assets/images/andor/3/4.jpg"></a>
+    <a href="/assets/images/andor/3/5.jpg"><img src="/assets/images/andor/3/5.jpg"></a>
+    <a href="/assets/images/andor/3/6.jpg"><img src="/assets/images/andor/3/6.jpg"></a>
+</figure>
 
+我非常喜欢安多这里的回应，一针见血道出帝国官僚系统的本质，同时为后续剧情埋下伏笔：
 
+<figure>
+    <a href="/assets/images/andor/3/7.jpg"><img src="/assets/images/andor/3/7.jpg"></a>
+    <a href="/assets/images/andor/3/8.jpg"><img src="/assets/images/andor/3/8.jpg"></a>
+    <a href="/assets/images/andor/3/9.jpg"><img src="/assets/images/andor/3/9.jpg"></a>
+    <a href="/assets/images/andor/3/10.jpg"><img src="/assets/images/andor/3/10.jpg"></a>
+    <a href="/assets/images/andor/3/11.jpg"><img src="/assets/images/andor/3/11.jpg"></a>
+    <a href="/assets/images/andor/3/12.jpg"><img src="/assets/images/andor/3/12.jpg"></a>
+    <a href="/assets/images/andor/3/13.jpg"><img src="/assets/images/andor/3/13.jpg"></a>
+    <a href="/assets/images/andor/3/14.jpg"><img src="/assets/images/andor/3/14.jpg"></a>
+    <a href="/assets/images/andor/3/15.jpg"><img src="/assets/images/andor/3/15.jpg"></a>
+    <a href="/assets/images/andor/3/16.jpg"><img src="/assets/images/andor/3/16.jpg"></a>
+    <a href="/assets/images/andor/3/17.jpg"><img src="/assets/images/andor/3/17.jpg"></a>
+    <a href="/assets/images/andor/3/18.jpg"><img src="/assets/images/andor/3/18.jpg"></a>
+</figure>
+
+当然，作为一个老练的义军军师，卢森是不满足仅仅拿到星路组的，通过背景调查，他了解到安多杀了人，想要跑路，也了解了他父亲是被帝国方面害死的，这使他更容易拉安多入坑(当炮灰)。然而时间不等人，来不及细细商量，卡恩副总督的人就一脚杀到了废弃工厂。
+
+安多和卢森的文戏演完，轮到卡恩副总督出场了。按照预定计划，12人分成东，西，北三队，包围废弃工厂，确保安多没有逃生机会。然而卢森技高一筹，通过引爆工厂门外的炸药在东队守住大门，按兵不动时来了个先发制人，干掉东队三个人，同时争取到逃生机会。卡恩副总督见状，想在安多的逃生路线上设卡，不料因为人生地不熟反被逮住。
+
+<figure>
+    <a href="/assets/images/andor/3/19.jpg"><img src="/assets/images/andor/3/19.jpg"></a><figcaption>损失三个人，卡恩开始心慌，业务能力属实不行</figcaption>
+    <a href="/assets/images/andor/3/20.jpg"><img src="/assets/images/andor/3/20.jpg"></a><figcaption>卡恩：麻了</figcaption>
+    <a href="/assets/images/andor/3/21.jpg"><img src="/assets/images/andor/3/21.jpg"></a><figcaption>卡恩：麻了×2</figcaption>
+</figure>
+
+最终安多和卢森逃出生天：
+
+<figure>
+    <a href="/assets/images/andor/3/23.jpg"><img src="/assets/images/andor/3/23.jpg"></a><figcaption>卢森：吃尾气吧</figcaption>
+    <a href="/assets/images/andor/3/24.jpg"><img src="/assets/images/andor/3/24.jpg"></a><figcaption>又损失三个人</figcaption>
+    <a href="/assets/images/andor/3/25.jpg"><img src="/assets/images/andor/3/25.jpg"></a><figcaption>卡恩：麻了×3</figcaption>
+    <a href="/assets/images/andor/3/26.jpg"><img src="/assets/images/andor/3/26.jpg"></a><figcaption>卡恩万念俱灰</figcaption>
+</figure>
 
 
 
