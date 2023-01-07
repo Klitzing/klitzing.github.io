@@ -65,14 +65,14 @@ toc_label: "目录"
     <a href="/assets/images/andor/2/3.jpg"><img src="/assets/images/andor/2/3.jpg"></a>
     <a href="/assets/images/andor/2/4.jpg"><img src="/assets/images/andor/2/4.jpg"></a>
     <a href="/assets/images/andor/2/5.jpg"><img src="/assets/images/andor/2/5.jpg"></a>
-    <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a><figcaption>基层治理就是要刀子见血！</figcaption>
+    <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a><figcaption>连普莫工业区的人都不怕，已经不是一般的市民了。不要再犹豫了，一定要出重拳！</figcaption>
 </figure>
 
 ## 第三集
 
 从这集开始，本剧义军的核心人物：卢森，终于有了一展拳脚的舞台。作为这部剧给我印象最深的配角，可以说卢森以一人之力拔高了整部剧的高度，通过他张弛有度的演技和掷地有声的台词，《安多》从一众星战衍生剧中脱颖而出，衬托得其他衍生剧如同儿戏。
 
-首先看安多和卢森在废弃工厂的对峙，一般来说，文戏是最能塑造角色形象的，但也很考验编剧功底。这里的背景是卢森对安多有戒心，站在他的角度，安多就是个拈花惹草，惹是生非的小混混，通过来路不明的渠道拿到了昂贵的星路组，自然成为了可疑对象。
+首先看安多和卢森在废弃工厂的对峙，一般来讲，文戏是最能塑造角色形象的，但也很考验编剧功底。这里的背景是卢森对安多有戒心，站在他的角度，安多就是个拈花惹草，惹是生非的小混混，通过来路不明的渠道拿到了昂贵的星路组，自然成为了可疑对象。
 
 <figure>
     <a href="/assets/images/andor/3/1.jpg"><img src="/assets/images/andor/3/1.jpg"></a>
