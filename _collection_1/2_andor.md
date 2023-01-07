@@ -39,10 +39,34 @@ toc_label: "目录"
     <a href="/assets/images/andor/1/Screenshot 2022-12-29 191443.jpg"><img src="/assets/images/andor/1/Screenshot 2022-12-29 191443.jpg"></a><figcaption>得知要加一整夜班内心崩溃的监控员.jpg</figcaption>
 </figure>
 
-通过这段描写，一个拼命想干出点政绩却用力过猛的帝安局做题家形象便跃然荧幕。看到这里，我预感帝安局做题家会在后面翻车(结果果然翻车了)。
+通过这段描写，一个拼命想干出点政绩却用力过猛的帝安局做题家形象便跃然荧幕。看到这里，我预感帝安局做题家会在后面翻车(确实翻车了)。
 
 ## 第二集
 
+这集的剧情也很简单：安多收拾细软准备跑路，卡恩亲自出动准备抓人，卢森来到菲尼克斯准备拿货交钱。
+
+有意思的是在这集出场的新角色————卡恩副总督(暂且不叫他帝安局做题家)的小跟班：
+
+<figure>
+    <a href="/assets/images/andor/2/1.jpg"><img src="/assets/images/andor/2/1.jpg"></a>
+</figure>
+
+小跟班乍一看感觉是那种喜剧人物：大腹便便，圆脸，留复古风范的络腮胡，操一口滑稽口语。
+
+<figure>
+    <a href="/assets/images/andor/2/wagnar.jpg"><img src="/assets/images/andor/2/wagnar.jpg"></a>
+</figure><figcaption>瓦格纳：这家伙留我一样的络腮胡</figcaption>
+
+同时他也很想对菲尼克斯重拳出击，刚好和卡恩副总督想到一块去了，看来这俩是要在总督眼皮底下搞事情。不过后来的抓捕行动证明小跟班才是真正雷厉风行的领导，卡恩副总督反而拉了。
+
+<figure>
+    <a href="/assets/images/andor/2/1.jpg"><img src="/assets/images/andor/2/1.jpg"></a>
+    <a href="/assets/images/andor/2/2.jpg"><img src="/assets/images/andor/2/2.jpg"></a>
+    <a href="/assets/images/andor/2/3.jpg"><img src="/assets/images/andor/2/3.jpg"></a>
+    <a href="/assets/images/andor/2/4.jpg"><img src="/assets/images/andor/2/4.jpg"></a>
+    <a href="/assets/images/andor/2/5.jpg"><img src="/assets/images/andor/2/5.jpg"></a>
+    <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a>
+</figure><figcaption>基层治理就是要刀子见血！</figcaption>
 
 
 
