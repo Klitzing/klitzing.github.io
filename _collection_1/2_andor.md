@@ -54,8 +54,8 @@ toc_label: "目录"
 小跟班乍一看感觉是那种喜剧人物：大腹便便，圆脸，留复古风范的络腮胡，操一口滑稽口语。
 
 <figure>
-    <a href="/assets/images/andor/2/wagnar.jpg"><img src="/assets/images/andor/2/wagnar.jpg"></a>
-</figure><figcaption>瓦格纳：这家伙留我一样的络腮胡</figcaption>
+    <a href="/assets/images/andor/2/wagnar.jpg"><img src="/assets/images/andor/2/wagnar.jpg"></a><figcaption>瓦格纳：这家伙留我一样的络腮胡</figcaption>
+</figure>
 
 同时他也很想对菲尼克斯重拳出击，刚好和卡恩副总督想到一块去了，看来这俩是要在总督眼皮底下搞事情。不过后来的抓捕行动证明小跟班才是真正雷厉风行的领导，卡恩副总督反而拉了。
 
@@ -65,8 +65,10 @@ toc_label: "目录"
     <a href="/assets/images/andor/2/3.jpg"><img src="/assets/images/andor/2/3.jpg"></a>
     <a href="/assets/images/andor/2/4.jpg"><img src="/assets/images/andor/2/4.jpg"></a>
     <a href="/assets/images/andor/2/5.jpg"><img src="/assets/images/andor/2/5.jpg"></a>
-    <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a>
-</figure><figcaption>基层治理就是要刀子见血！</figcaption>
+    <a href="/assets/images/andor/2/6.jpg"><img src="/assets/images/andor/2/6.jpg"></a><figcaption>基层治理就是要刀子见血！</figcaption>
+</figure>
+
+
 
 
 
