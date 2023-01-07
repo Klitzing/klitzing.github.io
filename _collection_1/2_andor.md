@@ -51,7 +51,7 @@ toc_label: "目录"
     <a href="/assets/images/andor/2/1.jpg"><img src="/assets/images/andor/2/1.jpg"></a>
 </figure>
 
-小跟班乍一看感觉是那种喜剧人物：大腹便便，圆脸，留复古风范的络腮胡，操一口滑稽口语。
+小跟班乍一看感觉是那种喜剧人物：大腹便便，圆脸，留复古风范的络腮胡，口音滑稽：把"sir"说成"se"。
 
 <figure>
     <a href="/assets/images/andor/2/wagnar.jpg"><img src="/assets/images/andor/2/wagnar.jpg"></a><figcaption>瓦格纳：这家伙留我一样的络腮胡</figcaption>
