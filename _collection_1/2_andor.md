@@ -127,7 +127,7 @@ toc_label: "目录"
 先从帝安局这边开始，帕塔加斯少校是帝安局的老大，本片中首次出现在帝安局会议上。从他对下属和工作的态度，观众们可以看到一个雷厉风行，杀伐果断的职业官僚形象。
 
 <figure>
-    <a href="/assets/images/andor/4/1.jpg"><img src="/assets/images/andor/4/1.jpg"></a>
+    <a href="/assets/images/andor/4/1.png"><img src="/assets/images/andor/4/1.png"></a>
     <a href="/assets/images/andor/4/2.jpg"><img src="/assets/images/andor/4/2.jpg"></a>
 </figure>
 
