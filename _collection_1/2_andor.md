@@ -128,38 +128,38 @@ toc_label: "目录"
 
 <figure>
     <a href="/assets/images/andor/4/1.png"><img src="/assets/images/andor/4/1.png"></a>
-    <a href="/assets/images/andor/4/2.jpg"><img src="/assets/images/andor/4/2.jpg"></a>
+    <a href="/assets/images/andor/4/2.png"><img src="/assets/images/andor/4/2.png"></a>
 </figure>
 
 同时他也是星战宇宙里最爱看备忘录的帝国官僚(
 
 <figure>
-    <a href="/assets/images/andor/4/3.jpg"><img src="/assets/images/andor/4/3.jpg"></a>
-    <a href="/assets/images/andor/4/4.jpg"><img src="/assets/images/andor/4/4.jpg"></a>
+    <a href="/assets/images/andor/4/3.png"><img src="/assets/images/andor/4/3.png"></a>
+    <a href="/assets/images/andor/4/4.png"><img src="/assets/images/andor/4/4.png"></a>
 </figure>
 
 其次是黛德拉，比帕塔加斯还要心狠手辣的帝国官僚。
 
 <figure>
-    <a href="/assets/images/andor/4/15.jpg"><img src="/assets/images/andor/4/15.jpg"></a>
-    <a href="/assets/images/andor/4/16.jpg"><img src="/assets/images/andor/4/16.jpg"></a>
+    <a href="/assets/images/andor/4/15.png"><img src="/assets/images/andor/4/15.png"></a>
+    <a href="/assets/images/andor/4/16.png"><img src="/assets/images/andor/4/16.png"></a>
 </figure>
 
 
 黛德拉新来帝安局不到一年，对菲尼克斯事件很感兴趣，委派下属向另外一名同事借阅菲尼克斯材料，不过被拒了：
 
 <figure>
-    <a href="/assets/images/andor/4/9.jpg"><img src="/assets/images/andor/4/9.jpg"></a>
-    <a href="/assets/images/andor/4/10.jpg"><img src="/assets/images/andor/4/10.jpg"></a>
-    <a href="/assets/images/andor/4/11.jpg"><img src="/assets/images/andor/4/11.jpg"></a>
-    <a href="/assets/images/andor/4/12.jpg"><img src="/assets/images/andor/4/12.jpg"></a>
+    <a href="/assets/images/andor/4/9.png"><img src="/assets/images/andor/4/9.png"></a>
+    <a href="/assets/images/andor/4/10.png"><img src="/assets/images/andor/4/10.png"></a>
+    <a href="/assets/images/andor/4/11.png"><img src="/assets/images/andor/4/11.png"></a>
+    <a href="/assets/images/andor/4/12.png"><img src="/assets/images/andor/4/12.png"></a>
 </figure>
 
 找领导理论，领导明显偏袒旧下属：
 
 <figure>
-    <a href="/assets/images/andor/4/13.jpg"><img src="/assets/images/andor/4/13.jpg"></a>
-    <a href="/assets/images/andor/4/14.jpg"><img src="/assets/images/andor/4/14.jpg"></a>
+    <a href="/assets/images/andor/4/13.png"><img src="/assets/images/andor/4/13.png"></a>
+    <a href="/assets/images/andor/4/14.png"><img src="/assets/images/andor/4/14.png"></a>
 </figure>
 
 从黛德拉的经历来看，她在帝安局的道路恐怕不会那么顺利，想要很快出人头地，黛德拉需要拿出更有力的政绩，按照她的性格，安多凶多吉少。
@@ -167,25 +167,25 @@ toc_label: "目录"
 再来看义军这边：首先见到的是阿尔达尼突袭行动的指挥官：薇拉，她对安多一人显然不满意
 
 <figure>
-    <a href="/assets/images/andor/4/17.jpg"><img src="/assets/images/andor/4/17.jpg"></a>
-    <a href="/assets/images/andor/4/18.jpg"><img src="/assets/images/andor/4/18.jpg"></a>
+    <a href="/assets/images/andor/4/17.png"><img src="/assets/images/andor/4/17.png"></a>
+    <a href="/assets/images/andor/4/18.png"><img src="/assets/images/andor/4/18.png"></a>
 </figure>
 
 其次是义军四人组，突袭行动的其他队员：
 
 <figure>
-    <a href="/assets/images/andor/4/19.jpg"><img src="/assets/images/andor/4/19.jpg"></a></a><figcaption>从左到右分别为：塔拉敏，辛塔，内米克，斯基恩</figcaption>
+    <a href="/assets/images/andor/4/19.png"><img src="/assets/images/andor/4/19.png"></a></a><figcaption>从左到右分别为：塔拉敏，辛塔，内米克，斯基恩</figcaption>
 </figure>
 
 除了内米克一人对安多保持欢迎，其他人都一副死妈脸。
 
 <figure>
-    <a href="/assets/images/andor/4/20.jpg"><img src="/assets/images/andor/4/20.jpg"></a>
-    <a href="/assets/images/andor/4/21.jpg"><img src="/assets/images/andor/4/21.jpg"></a>
-    <a href="/assets/images/andor/4/22.jpg"><img src="/assets/images/andor/4/22.jpg"></a>
-    <a href="/assets/images/andor/4/23.jpg"><img src="/assets/images/andor/4/23.jpg"></a>
-    <a href="/assets/images/andor/4/24.jpg"><img src="/assets/images/andor/4/24.jpg"></a>
-    <a href="/assets/images/andor/4/25.jpg"><img src="/assets/images/andor/4/25.jpg"></a>
+    <a href="/assets/images/andor/4/20.png"><img src="/assets/images/andor/4/20.png"></a>
+    <a href="/assets/images/andor/4/21.png"><img src="/assets/images/andor/4/21.png"></a>
+    <a href="/assets/images/andor/4/22.png"><img src="/assets/images/andor/4/22.png"></a>
+    <a href="/assets/images/andor/4/23.png"><img src="/assets/images/andor/4/23.png"></a>
+    <a href="/assets/images/andor/4/24.png"><img src="/assets/images/andor/4/24.png"></a>
+    <a href="/assets/images/andor/4/25.png"><img src="/assets/images/andor/4/25.png"></a>
 </figure>
 
 这里内米克显然是气质最独特的义军成员：理想主义，文邹邹的性格，时常抱着一本书。内米克代表的是最纯粹的革命者，这类人往往是精神信念最坚定的一派，但很难落得善终。剧中内米克在第六集突袭结束后就死了，但发表的内米克宣言影响了无数义军人。值得一提的是：内米克的演员Alex Lawther在《The End of the F***ing World》两季中贡献了精彩的表演，令我印像深刻。
