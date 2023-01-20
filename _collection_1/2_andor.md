@@ -174,7 +174,7 @@ toc_label: "目录"
 其次是义军四人组，突袭行动的其他队员：
 
 <figure>
-    <a href="/assets/images/andor/4/19.png"><img src="/assets/images/andor/4/19.png"></a></a><figcaption>从左到右分别为：塔拉敏，辛塔，内米克，斯基恩</figcaption>
+    <a href="/assets/images/andor/4/19.png"><img src="/assets/images/andor/4/19.png"></a><figcaption>从左到右分别为：塔拉敏，辛塔，内米克，斯基恩</figcaption>
 </figure>
 
 除了内米克一人对安多保持欢迎，其他人都一副死妈脸。
