@@ -120,6 +120,107 @@ toc_label: "目录"
 </figure>
 
 
+## 第四集
+
+《安多》这部剧每三集为一个整体，随着第三集小高潮的结束，主人公安多和卢森从偏僻的菲尼克斯来到了更加偏僻的阿尔达尼，同时配角也变得更加充实丰富。这集新增的角色可分为帝安局和义军两派，其实两派都面临着内部的勾心斗角，每派都不是铁板一块。
+
+先从帝安局这边开始，帕塔加斯少校是帝安局的老大，本片中首次出现在帝安局会议上。从他对下属和工作的态度，观众们可以看到一个雷厉风行，杀伐果断的职业官僚形象。
+
+<figure>
+    <a href="/assets/images/andor/4/1.jpg"><img src="/assets/images/andor/4/1.jpg"></a>
+    <a href="/assets/images/andor/4/2.jpg"><img src="/assets/images/andor/4/2.jpg"></a>
+</figure>
+
+同时他也是星战宇宙里最爱看备忘录的帝国官僚(
+
+<figure>
+    <a href="/assets/images/andor/4/3.jpg"><img src="/assets/images/andor/4/3.jpg"></a>
+    <a href="/assets/images/andor/4/4.jpg"><img src="/assets/images/andor/4/4.jpg"></a>
+</figure>
+
+其次是黛德拉，比帕塔加斯还要心狠手辣的帝国官僚。
+
+<figure>
+    <a href="/assets/images/andor/4/15.jpg"><img src="/assets/images/andor/4/15.jpg"></a>
+    <a href="/assets/images/andor/4/16.jpg"><img src="/assets/images/andor/4/16.jpg"></a>
+</figure>
+
+
+黛德拉新来帝安局不到一年，对菲尼克斯事件很感兴趣，委派下属向另外一名同事借阅菲尼克斯材料，不过被拒了：
+
+<figure>
+    <a href="/assets/images/andor/4/9.jpg"><img src="/assets/images/andor/4/9.jpg"></a>
+    <a href="/assets/images/andor/4/10.jpg"><img src="/assets/images/andor/4/10.jpg"></a>
+    <a href="/assets/images/andor/4/11.jpg"><img src="/assets/images/andor/4/11.jpg"></a>
+    <a href="/assets/images/andor/4/12.jpg"><img src="/assets/images/andor/4/12.jpg"></a>
+</figure>
+
+找领导理论，领导明显偏袒旧下属：
+
+<figure>
+    <a href="/assets/images/andor/4/13.jpg"><img src="/assets/images/andor/4/13.jpg"></a>
+    <a href="/assets/images/andor/4/14.jpg"><img src="/assets/images/andor/4/14.jpg"></a>
+</figure>
+
+从黛德拉的经历来看，她在帝安局的道路恐怕不会那么顺利，想要很快出人头地，黛德拉需要拿出更有力的政绩，按照她的性格，安多凶多吉少。
+
+再来看义军这边：首先见到的是阿尔达尼突袭行动的指挥官：薇拉，她对安多一人显然不满意
+
+<figure>
+    <a href="/assets/images/andor/4/17.jpg"><img src="/assets/images/andor/4/17.jpg"></a>
+    <a href="/assets/images/andor/4/18.jpg"><img src="/assets/images/andor/4/18.jpg"></a>
+</figure>
+
+其次是义军四人组，突袭行动的其他队员：
+
+<figure>
+    <a href="/assets/images/andor/4/19.jpg"><img src="/assets/images/andor/4/19.jpg"></a></a><figcaption>从左到右分别为：塔拉敏，辛塔，内米克，斯基恩</figcaption>
+</figure>
+
+除了内米克一人对安多保持欢迎，其他人都一副死妈脸。
+
+<figure>
+    <a href="/assets/images/andor/4/20.jpg"><img src="/assets/images/andor/4/20.jpg"></a>
+    <a href="/assets/images/andor/4/21.jpg"><img src="/assets/images/andor/4/21.jpg"></a>
+    <a href="/assets/images/andor/4/22.jpg"><img src="/assets/images/andor/4/22.jpg"></a>
+    <a href="/assets/images/andor/4/23.jpg"><img src="/assets/images/andor/4/23.jpg"></a>
+    <a href="/assets/images/andor/4/24.jpg"><img src="/assets/images/andor/4/24.jpg"></a>
+    <a href="/assets/images/andor/4/25.jpg"><img src="/assets/images/andor/4/25.jpg"></a>
+</figure>
+
+这里内米克显然是气质最独特的义军成员：理想主义，文邹邹的性格，时常抱着一本书。内米克代表的是最纯粹的革命者，这类人往往是精神信念最坚定的一派，但很难落得善终。剧中内米克在第六集突袭结束后就死了，但发表的内米克宣言影响了无数义军人。值得一提的是：内米克的演员Alex Lawther在《The End of the F***ing World》两季中贡献了精彩的表演，令我印像深刻。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
